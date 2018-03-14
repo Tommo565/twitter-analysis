@@ -1,1 +1,10 @@
-secrets_example.py
+consumer_key = 'yourconsumerkey'
+consumer_secret = 'yourconsumersecret'
+access_token = 'youraccesstoken'
+access_token_secret = 'yourtokensecret'
+
+mongo_host = 'localhost:27017'
+mongo_user = 'yourusername'
+mongo_password = 'yourpassword'
+mongo_db_name = 'yourdatabase'
+mongo_auth = 'SCRAM-SHA-1'

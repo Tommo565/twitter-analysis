@@ -104,3 +104,5 @@ venv.bak/
 # secrets
 
 secrets.py
+averaged_perception_tagger/
+ner_corpus/
