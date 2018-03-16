@@ -104,5 +104,5 @@ venv.bak/
 # secrets
 
 secrets.py
-averaged_perceptrgot on_tagger/*
+averaged_perceptron_tagger/*
 ner_corpus/
