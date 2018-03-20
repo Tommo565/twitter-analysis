@@ -22,7 +22,13 @@ Note that the entity extraction model is based upon [this excellent tutorial](ht
 
 ## Entity Extraction
 
-Entity Extraction Explanation goes here...
+### What is Entity Extraction?
+
+Entity Extraction (also sometimes called Entity Name Extraction or Named Entity Recognition) is the process of extracting real world entities (e.g. people, organisations, events, currencies, dates, times etc.) from text. Since text data is an unstructured data source, being able to identify the entities in the text is of real value to anyone looking to make sense of large volumes of text quickly and easily.
+
+### How does it work?
+
+Since the ambiguities of language make it very difficult for machines to differentiate between all the possible meanings of a word (e.g. the word 'crane' could refer to a type of bird, a type of construction vehicle or the process of extending your neck), a simple keyword solution cannot be used.
 
 
 ## Useful links & Further Reading

@@ -103,6 +103,6 @@ venv.bak/
 
 # secrets
 
-secrets.py
-averaged_perceptron_tagger/*
+core/secrets.py
+averaged_perceptron_tagger/
 ner_corpus/
